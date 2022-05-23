@@ -69,3 +69,42 @@ nav {
     color: #F9FAF8;
 }
 
+/* intro */
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 30px;
+    gap: 30px;
+}
+section {
+    
+    
+}
+h2 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-bottom: 16px;
+}
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 24px;
+}
+.sidepic {
+    max-width: 50%;
+    
+}
+
+/* buttons */
+ 
+.button {
+    background-color: #3882F6;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+
